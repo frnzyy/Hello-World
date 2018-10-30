@@ -1,2 +1,4 @@
 # Hello-World
 My first repository
+
+HOLA BOIS ITS YA BOI PARANS IN GIT HUB TO TRY AND UNFUCK MY FUCKED UP LIFE
